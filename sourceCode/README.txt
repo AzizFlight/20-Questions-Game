@@ -5,7 +5,7 @@ Abdulaziz Abdulaziz
 ———————————————————
 
 
-The program plays 20 questions game. You can train the program and then play the game. The program learns from its mistake.
+The program plays 20 questions game. You can train the program and then play the game. The program learns from its mistakes.
 
 ———————————————————
 
@@ -22,4 +22,4 @@ main.cpp: plays the actual game
 ———————————————————
 
 
-The program rocks successfully without any problems.
+The program runs successfully without any problems.
