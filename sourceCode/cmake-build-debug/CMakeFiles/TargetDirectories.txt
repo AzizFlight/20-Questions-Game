@@ -1,0 +1,3 @@
+/Users/abdulazizabdulaziz/Desktop/Courses/OOP/a6_StarterKit_20questions/sourceCode/cmake-build-debug/CMakeFiles/sourceCode.dir
+/Users/abdulazizabdulaziz/Desktop/Courses/OOP/a6_StarterKit_20questions/sourceCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abdulazizabdulaziz/Desktop/Courses/OOP/a6_StarterKit_20questions/sourceCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
